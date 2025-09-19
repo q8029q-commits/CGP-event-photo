@@ -4,7 +4,7 @@
 
 
 
-(우먼) 스퀘어 로고 맨투맨_오트밀
+                                    (우먼) 스퀘어 로고 맨투맨_오트밀
 ![CGP 우먼 맨투맨 오트밀](https://github.com/user-attachments/assets/a9843eb9-b124-4ae2-b57b-fdfe7e98a8fc)
 
 
