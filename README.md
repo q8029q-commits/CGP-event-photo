@@ -22,6 +22,7 @@
 
 
 
+
 스퀘어 로고 맨투맨_네이비
 ![CGP 맨투맨 네이비](https://github.com/user-attachments/assets/7a37c6f0-a0b2-4268-92f5-7b148c34273f)
 
