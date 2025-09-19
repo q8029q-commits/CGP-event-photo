@@ -1,4 +1,8 @@
 # CGP-event-photo
+코드그라피 25FW 최대 20프로 할인합니다. 
+카카오플친 추가시 5프로 추가할인도 가능하니 
+할인 된 가격으로 신상 제품을 만나보세요.
+
 <img width="656" height="972" alt="URL 사진 1" src="https://github.com/user-attachments/assets/ffe48727-ff64-4cfe-b187-2d10bfff910d" />
 <img width="654" height="981" alt="URL  사진 2" src="https://github.com/user-attachments/assets/8b17409f-d7a7-450f-9649-a8fe197fde3c" />
 <img width="639" height="959" alt="URL 사진 3" src="https://github.com/user-attachments/assets/052c27a1-6ea6-478b-a993-2bfa55c6ce1f" />
