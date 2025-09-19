@@ -1,4 +1,4 @@
-# cgp-event-photo
+# CGP-event-photo
 
 코드그라피 대표 의류
 
